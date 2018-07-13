@@ -53,7 +53,7 @@ def set_a_by_q(s,qvalue):
               maxaction=i
 
     return maxaction
-ppp
+
 def nexts(s,a):
     next_s_value=[]
     next_s_value=[-8,8,-1,1]
